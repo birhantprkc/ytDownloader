@@ -624,10 +624,11 @@ class YtDownloaderApp {
 
 			if (actionBtn) {
 				actionBtn.disabled = false;
+				const isAppImage = info.isAppImage ?? Boolean(env?.APPIMAGE);
 				const isBrowserDownload =
 					info.isZipBuild ||
 					info.platform === "darwin" ||
-					(info.platform === "linux" && !env?.APPIMAGE);
+					(info.platform === "linux" && !isAppImage);
 
 				if (isBrowserDownload) {
 					actionBtn.textContent = window.i18n ? window.i18n.__("downloadInBrowser") : "Download in Browser";
@@ -1339,18 +1340,6 @@ class YtDownloaderApp {
 				const pathEl = $(CONSTANTS.DOM_IDS.PATH_DISPLAY);
 				if (pathEl) pathEl.textContent = downloadDir;
 				this._updateHomePathDisplay();
-			}
-		}
-
-		// Sync quick preset defaults from preferences
-		const qualitySelect = document.getElementById("presetQualitySelect");
-		if (qualitySelect && prefs.videoQuality) {
-			const matchingOpt = Array.from(qualitySelect.options).find(
-				(opt) => opt.value === String(prefs.videoQuality),
-			);
-			if (matchingOpt) {
-				qualitySelect.value = String(prefs.videoQuality);
-				this.state.batchPreset.quality = String(prefs.videoQuality);
 			}
 		}
 	}
