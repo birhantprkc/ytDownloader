@@ -45,15 +45,16 @@ A modern GUI video and audio downloader supporting [hundreds of sites](https://g
 ✅ And of-course no trackers or ads
 
 ## Screenshots
+<img width="3198" height="1562" alt="ss-homepage" src="https://github.com/user-attachments/assets/89d484b0-9413-416c-9c3b-e322f6d93ca8" />
+<details>
+<summary>More screenshots</summary>
+<img width="2672" height="1944" alt="ss-playlist" src="https://github.com/user-attachments/assets/00717c5b-39c3-4c47-a51c-855fa9d85673" />
+<img width="2456" height="1952" alt="ss-compressor" src="https://github.com/user-attachments/assets/b7907b1a-be3d-4910-b210-ddae9e4c215a" />
+<img width="2906" height="1804" alt="ss-settings" src="https://github.com/user-attachments/assets/cab933db-a591-4483-9ddc-8ff6cb3a94b9" />
 
-<!-- ![ytdownloader_dark](https://github.com/aandrew-me/ytDownloader/assets/66430340/62efbca0-28b8-4016-bcf2-1a14bcaa782c) -->
-<!-- ![ytdownloader_light](https://github.com/aandrew-me/ytDownloader/assets/66430340/34f5270f-bdea-460e-8622-6459cd147b73) -->
 
-<!-- ![ss_homepage](https://github.com/user-attachments/assets/12410bca-31c3-48a0-bbd3-1d74bcc752b6) -->
-<!-- ![ss_compressor](https://github.com/user-attachments/assets/52da7e50-46bb-4749-8152-5e79324a6cc3) -->
+</details>
 
-<img width="3178" height="1870" alt="ss_homepage" src="https://github.com/user-attachments/assets/cff15ee5-a78b-43d1-adce-19c7f5d59221" />
-<img width="2848" height="1842" alt="ss_compressor" src="https://github.com/user-attachments/assets/e5d4fac3-9688-4617-960b-1cd0960e6ba0" />
 
 
 
@@ -157,7 +158,7 @@ Translations into other languages would be highly appreciated. If you want to he
 | Ukrainian           | ✔️     |
 | Vietnamese          | ✔️     |
 
-Thanks to [nxjosephofficial](https://github.com/nxjosephofficial), [LINUX-SAUNA](https://t.me/linuxsauna), [Proxycon](https://github.com/proxycon), [albanobattistella](https://github.com/albanobattistella), [TheBlueQuasar](https://github.com/TheBlueQuasar), [MrQuerter](https://github.com/MrQuerter), [KotoWhiskas](https://github.com/KotoWhiskas), [André](https://github.com/andre1828), [haggen88](https://github.com/haggen88), [XfedeX](https://github.com/XfedeX), [Jok3r](https://github.com/th3knv), [TitouanReal](https://github.com/TitouanReal), [soredake](https://github.com/soredake), [yoi](https://github.com/thiennguyenqn), [HowlingWerewolf](https://github.com/HowlingWerewolf), [Kum](https://github.com/kum4423), [Mohammed Bakry](https://crowdin.com/profile/m7md_b4kry), [Huang Bingfeng](https://github.com/jackiotyu), [Abhinav](https://github.com/abhixdd), [CodWiz](https://github.com/C0dwiz) and others for helping.
+Thanks to [nxjosephofficial](https://github.com/nxjosephofficial), [LINUX-SAUNA](https://t.me/linuxsauna), [Proxycon](https://github.com/proxycon), [albanobattistella](https://github.com/albanobattistella), [TheBlueQuasar](https://github.com/TheBlueQuasar), [MrQuerter](https://github.com/MrQuerter), [KotoWhiskas](https://github.com/KotoWhiskas), [André](https://github.com/andre1828), [haggen88](https://github.com/haggen88), [XfedeX](https://github.com/XfedeX), [Jok3r](https://github.com/th3knv), [TitouanReal](https://github.com/TitouanReal), [soredake](https://github.com/soredake), [yoi](https://github.com/thiennguyenqn), [HowlingWerewolf](https://github.com/HowlingWerewolf), [Kum](https://github.com/kum4423), [Mohammed Bakry](https://crowdin.com/profile/m7md_b4kry), [Huang Bingfeng](https://github.com/jackiotyu), [Abhinav](https://github.com/abhixdd), [CodWiz](https://github.com/C0dwiz), [Bovirus](https://github.com/bovirus) and others for helping.
 
 ## Used technologies
 
